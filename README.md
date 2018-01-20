@@ -9,7 +9,7 @@ Features, usage and installation instructions are [summarised on the homepage](h
 3. Or use `brew search --desc <keyword>` to browse packages from the command line.
 
 ## More Documentation
-`brew help`, `man brew` or check [our documentation](https://docs.brew.sh/).
+`brew help` or check [our documentation](https://docs.brew.sh/).
 
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
